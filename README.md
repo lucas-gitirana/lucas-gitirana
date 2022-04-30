@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align "center">  
    <a href= "https://play.google.com/store/apps/details?id=lucas.gitirana.fumus&hl=pt_BR&gl=US"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
   <br/>
-  <img  alt="fumus" height="50" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/-CZDv79V9MAsq0iAoAZMMIrQ-y0BR2My3E80e7tmUXhHij9Gyxhkm8Y7UPN1QWhvPp0=s180-rw"> 
+  <img alt="fumus" height="135" style="border-radius:50px;" src="https://play-lh.googleusercontent.com/-CZDv79V9MAsq0iAoAZMMIrQ-y0BR2My3E80e7tmUXhHij9Gyxhkm8Y7UPN1QWhvPp0=s180-rw"> 
 </div>
   
   ##
@@ -40,8 +40,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="right" alt="gif-yoda" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/FinishedGentleAfricanfisheagle-max-1mb.gif">
 </div>
-  
-<br/>
   
   <div> 
   <a href="https://www.instagram.com/lucas_gitirana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
