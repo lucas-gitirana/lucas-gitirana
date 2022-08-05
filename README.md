@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🔭 Bolsista do projeto de criação de cursos MOOC para o laboratório maker do Instituto Federal Catarinense 📽💻🤓
 - 🌱 Cursando bacharelado em Sistemas de Informação no IFC campus Camboriú
 - 👨‍🎓 Egresso do curso técnico em informática integrado ao ensino médio do IFC campus Ibirama
-- ⚡ Fun fact: the water isn't wet 🙂
 
 <div align="left">
   <a href="https://github.com/lucas-gitirana">
