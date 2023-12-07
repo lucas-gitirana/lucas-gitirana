@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- 🔭 Programador Full Stack (PHP) 📽💻🤓
-- 🌱 Acadêmico de Engenharia de Software na UDESC Alto Vale
+- 🔭 Programador Full Stack (PHP) 💻
+- 🌱 Acadêmico de Engenharia de Software na UDESC Alto Vale 🤓
 - 👨‍🎓 Egresso do curso técnico em informática integrado ao ensino médio do IFC campus Ibirama
 
 <div align="left">
