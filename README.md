@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Bolsista do projeto de criação de cursos MOOC para o laboratório maker do Instituto Federal Catarinense 📽💻🤓
-- 🌱 Cursando bacharelado em Sistemas de Informação no IFC campus Camboriú
+- 🔭 Progamador Full Stack PHP 💻🤓
+- 🌱 Cursando Engenharia de Software na UDESC
 - 👨‍🎓 Técnico em Informática pelo IFC campus Ibirama
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
