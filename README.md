@@ -1,20 +1,6 @@
 ### Olá! 🖐🤙 Me chamo Lucas Gitirana!
 
-<!--
-**lucas-gitirana/lucas-gitirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Progamador Web PHP 💻🤓
-- 🌱 Cursando Engenharia de Software na UDESC
-- 👨‍🎓 Técnico em Informática pelo IFC campus Ibirama
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
-- 🔭 Programador Full Stack (PHP) 💻
+- 🔭 Desenvolvedor Web Júnior PHP 💻
 - 🌱 Acadêmico de Engenharia de Software na UDESC Alto Vale 🤓
 - 👨‍🎓 Egresso do curso técnico em informática integrado ao ensino médio do IFC campus Ibirama
 
