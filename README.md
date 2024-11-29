@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Progamador Full Stack PHP 💻🤓
+- 🔭 Progamador Web PHP 💻🤓
 - 🌱 Cursando Engenharia de Software na UDESC
 - 👨‍🎓 Técnico em Informática pelo IFC campus Ibirama
 - 👯 I’m looking to collaborate on ...
@@ -33,22 +33,13 @@ Here are some ideas to get you started:
 </div>
   
   ##
-
-<div style="display: inline_block"><br>                     
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="right" alt="gif-yoda" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/FinishedGentleAfricanfisheagle-max-1mb.gif">
-</div>
   
   <br/>
   
   <div> 
-  <a href="https://www.instagram.com/lucas_gitirana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/lucas_egitirana"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "mailto:gitiranalucas5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://join.slack.com/t/lucasgitirana/shared_invite/zt-180jdyu6f-HOEH1nfJ6Ef5H_~~cB6OUA"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
-    <a href = "https://discord.gg/cAsMSWpu8K"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "https://discord.gg/cAsMSWpu8K"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-gitirana-387aa7203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
