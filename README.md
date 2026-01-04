@@ -1,7 +1,7 @@
 ### Olá! 🖐🤙 Me chamo Lucas Gitirana!
 
-- 🔭 Desenvolvedor Web Júnior PHP 💻
-- 🌱 Acadêmico de Engenharia de Software na UDESC Alto Vale 🤓
+- 🔭 Desenvolvedor Back-end Júnior PHP 💻
+- 🌱 Acadêmico de Engenharia de Software na UDESC Alto Vale
 - 👨‍🎓 Egresso do curso técnico em informática integrado ao ensino médio do IFC campus Ibirama
 
 <div align="left">
